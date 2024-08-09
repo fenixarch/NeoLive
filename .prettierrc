@@ -1,7 +1,0 @@
-{
-  "importOrder": ["^[react*]", "<THIRD_PARTY_MODULES>", "^[./]", "^[../]"],
-  "importOrderSeparation": true,
-  "importOrderSortSpecifiers": true,
-  "importOrderCaseInsensitive": true,
-  "printWidth": 100
-}
